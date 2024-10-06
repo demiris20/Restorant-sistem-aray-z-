@@ -1,0 +1,21 @@
+mercimek 0.1 b yag 0.05 c
+tarhana 0.1 b baharat 0.05 c
+domates 0.1 b baharat 0.05 c
+doner 0.2 b baharat 0.05 b yag 0.1 c
+doner 0.2 b baharat 0.05 b yag 0.1 c
+kavurma 0.2 b yag 0.15 c
+gogus 0.2 b baharat 0.05 b yag 0.1 c
+kiyma 0.2 b biber 0.1 b baharat 0.1 c
+gogus 0.3 b yag 0.1 c
+sinitzel 0.3 b yag 0.1 c
+nugget 0.3 b yag 0.1 c
+kiyma 0.3 b yag 0.1 c
+but 0.25 b baharat 0.05 b yag 0.1 c
+patlican 0.3 b kiyma 0.2 b yag 0.075 c
+pirinc 0.25 b yag 0.05 c
+bulgur 0.25 b yag 0.05 c
+kadayif 0.25 b fistik 0.25 c
+baklava 0.25 b ceviz 0.25 c
+baklava 0.25 b fistik 0.25 c
+sut 0.25 b pirinc 0.25 c
+kiyma 0.2 b hamur 0.2 c
